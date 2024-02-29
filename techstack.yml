@@ -2,7 +2,7 @@ repo_name: tdubs42/node-db1-project
 report_id: 1f5f48f85523270b03456a37ac1d64e0
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:05:57+00:00'
+timestamp: '2024-02-29T18:23:55+00:00'
 requested_by: Ladrillo
 provider: github
 branch: main
@@ -97,7 +97,7 @@ tools:
   last_updated_by: Diandra Ryan-Mas
   last_updated_on: 2019-05-16 15:28:20.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.1.4
   license: MIT
